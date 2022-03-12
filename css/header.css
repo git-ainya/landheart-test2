@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+/* outline
+------------------------------*/
+.l-header * {
+    font-family: 'Noto Sans JP', sans-serif;
+    box-sizing: border-box;
+}
