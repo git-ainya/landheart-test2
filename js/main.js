@@ -61,9 +61,6 @@ $('.ac-parent').on('click', function () {
   //openクラスをつける
   $(this).toggleClass('open');
 
-  //クリックされていないac-parentのopenクラスを取る
-  $('.ac-parent').not(this).removeClass('open');
-  
 });
 
 
